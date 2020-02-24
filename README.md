@@ -6,4 +6,5 @@ To view my work, you may view the live site [here](https://arogers4495.github.io
 
 # Getting set up locally
 
-1. After cloning this project locally, run > npm install >
+1. After cloning this project locally, run
+   > npm install
