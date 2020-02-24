@@ -6,5 +6,9 @@ To view my work, you may view the live site [here](https://arogers4495.github.io
 
 # Getting set up locally
 
-1. After cloning this project locally, run
-   > npm install
+## After cloning this project locally, run
+
+1.  `npm install`
+2.  `npm start`
+
+Once you have done this, my portfolio application should be up and running on port 3000. Please explore it and see what I can do!
